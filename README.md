@@ -129,7 +129,8 @@ That's what Sovereign OS is built for.
 
 ## 🔗 Learn More
 
-👉 https://dhurandhart.gumroad.com/l/Sovereign_OS_Assistant
+👉 ​[FREE] Architecture Spec: https://dhurandhart.gumroad.com/l/start_here
+[PAID] Full Source Code: https://dhurandhart.gumroad.com/l/Sovereign_OS_Assistant
 
 ---
 
